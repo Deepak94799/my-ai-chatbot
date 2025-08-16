@@ -1,0 +1,5 @@
+hasura:
+  cors:
+    enabled: true
+    allowedOrigins:
+      - http://localhost:5173
